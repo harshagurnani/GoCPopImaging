@@ -1,2 +1,2 @@
-# GoCPopImaging
-Scripts for preprocessing 3D imaging data and video recordings, associated with Gurnani et al 2020.
+# GoCPopImaging: Population Imaging of Cerebellar Golgi cells
+Scripts for analyses of preprocessed data and generating figures for Gurnani et al, 2020.
