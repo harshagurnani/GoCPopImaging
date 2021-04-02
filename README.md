@@ -1,2 +1,3 @@
 # GoCPopImaging: Population Imaging of Cerebellar Golgi cells
-Scripts for analyses of preprocessed data and generating figures for Gurnani et al, 2020.
+Scripts for analyses of preprocessed data and generating figures for __"Multidimensional population activity in an electrically coupled inhibitory circuit
+in the cerebellar cortex"__ by Gurnani & Silver, Neuron 2021.
